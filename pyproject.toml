@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Miguel-bc/pySWF.git"
-"Bug Tracker" = "https://github.com/Miguel-bc/pySWF.git/issues"
+"Homepage" = "https://github.com/Miguel-bc/SpanishWF.git"
+"Bug Tracker" = "https://github.com/Miguel-bc/SpanishWF.git/issues"

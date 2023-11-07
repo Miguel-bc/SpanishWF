@@ -1,4 +1,4 @@
-from pySWF.consts import PI
+from SpanishWF.consts import PI
 
 
 def sum(num1: float, num2: float) -> float:
